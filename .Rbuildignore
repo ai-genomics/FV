@@ -1,0 +1,10 @@
+^data-raw$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+scripts/
+examples/
+inst/docs/
+^LICENSE\.md$
+^doc$
+^Meta$
